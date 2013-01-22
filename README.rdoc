@@ -1,0 +1,4 @@
+== REDIS PERFORMANCE EVALUATION
+
+Proof of concept to verify Redis performance for storing huge datasets.
+
