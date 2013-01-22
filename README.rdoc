@@ -7,3 +7,9 @@ Sample output:
   Generated 10000 pnrs to check
   Taken 1.156453 sec to query 10000 in 9704774
 
+Memory usage:
+
+  Pnr set contains 9704774 pnrs
+  Used memory 786.07M
+  Peak used memory 786.07M
+
