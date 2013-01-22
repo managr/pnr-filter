@@ -3,6 +3,7 @@
 Proof of concept to verify Redis performance for storing huge datasets.
 
 Sample output:
-Generated 10000 pnrs to check_
-Taken 1.156453 sec to query 10000 in 9704774
+
+  Generated 10000 pnrs to check
+  Taken 1.156453 sec to query 10000 in 9704774
 
