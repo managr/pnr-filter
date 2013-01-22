@@ -9,5 +9,4 @@ r.del 'pnrs'
 end
 
 puts "Regenerated pnr set with #{r.scard('pnrs')} pnrs"
-puts "Used memory #{info['used_memory_human']}"
-puts "Peak used memory #{info['used_memory_peak_human']}"
+
